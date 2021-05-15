@@ -11,3 +11,4 @@ git reset --hard HEAD~n  回退，n是几回退几次
 git reset --hard 版本号  回退，回退至某个版本
 create a new branch is quick.
 Craete a new branch is quick AND simple.
+merge test dev
